@@ -1,0 +1,10 @@
+git config --global user.name "muhammedthabsheer23"
+git config --global user.user "muhammedthabsheer23@gmail.com"
+
+
+
+git init
+git add
+git remote add orgin "url"
+git commit -m "label"
+git push -u orgin master
